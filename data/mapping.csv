@@ -1,0 +1,9 @@
+Kard Transactions,External Transactions
+id,transactionId
+transactionDate,Date
+,Hour
+merchant,name
+transactionAmountinCents,dollars
+issuerId,
+userId,user
+transactionStatus,status
