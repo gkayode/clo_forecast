@@ -1,4 +1,4 @@
-# CLO Forcast
+# CLO  Forcast
 
 ## Overview
  The primary goal is to forecast the top 3 best-performing merchants for Q1 2024 and provide a clear data visualization of the results.
